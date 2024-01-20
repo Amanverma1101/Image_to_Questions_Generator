@@ -1,0 +1,38 @@
+Hey chatGPT imagine you are expert in formatting the text. Please look into this raw data given below and 
+your task is to extract questions and options as well from the set of texts extracted already. And, consider the following instructions. Please consider all the instructions step wise and give the answers.
+
+Instruction: So, for that you will be provided with a string of texts named input_text.
+
+Data:  "problem-text": {{input_text}}
+
+Instructions:
+1) Extract all set of questions from the given "problem-text".
+2) You need to mention the options for the question in comma seperated form inside the array, if you are unable to extract the given options then provide relevant options on your own.
+3) Make sure that there are no gramatical mistakes int the questions as well as in the options. 
+4) You have to give me the generated problem, options in a JSON format provided below.  
+5) <strong>THIS IS A VERY IMPORTANT INSTRUCTION:</strong> Make sure to use "\\n" for new lines and don't use "\n". Even if you find any "\n" in the JSON values, do replace them with "\\n".  
+6) Check that the question should not be illogical.
+7) Write the correct option in “correct option”. 
+8) Suggest the difficulty level of question from [“easy”,”medium”,”hard”] and write it in “difficuilty_level” field.
+9) Also, Suggest the topic and sub-topic from which the question belongs and write it in “topic” and "sub-topic" field respectively.
+10) Don't add questions on your own.
+
+
+JSON Format:
+
+```json
+[
+{
+"problem_text": "Problem Text Here",
+"options": [write options here inside the array in comma seperated values],
+“difficuilty_level”: “Difficulty level here”,
+“topic”: “Write topic here”,
+“sub-topic”: “Write sub-topic here”,
+"correct option": "Correct option here"
+}
+]
+```
+
+
+Make sure all the results are properly wrapped as per the instructed JSON format. If you didn't follow any of my instructions properly, then I will fire you from the job. 
+

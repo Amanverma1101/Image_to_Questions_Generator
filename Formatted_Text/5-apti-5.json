@@ -1,0 +1,18 @@
+[
+  {
+    "problem_text": "Verbal Reasoning :: Character Puzzles. Which one will replace the 1 point question mark ?",
+    "options": ["AL", "B.Kk15", "cons", "D.ks"],
+    "difficuilty_level": "medium",
+    "topic": "Verbal Reasoning",
+    "sub-topic": "Character Puzzles",
+    "correct option": "B.Kk15"
+  },
+  {
+    "problem_text": "Verbal Reasoning :: Classification. Directions to Solve: In each of the following questions, five words have been given out of which four are alike in some manner, while the fifth one is different. Choose the word which is different from the rest.",
+    "options": ["A Chicken", "option2", "option3", "option4"],
+    "difficuilty_level": "medium",
+    "topic": "Verbal Reasoning",
+    "sub-topic": "Classification",
+    "correct option": "A Chicken"
+  }
+]

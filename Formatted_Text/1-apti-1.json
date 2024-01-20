@@ -1,0 +1,24 @@
+[
+  {
+    "problem_text": "Arrange the words given below in a meaningful sequence.\n\n1. Key\n2. Door\n3. Lock\n4. Room\n5. Switch on\n",
+    "options": ["2435", "4153", "42153", "31425"],
+    "difficuilty_level": "easy",
+    "topic": "Sequencing",
+    "sub-topic": "Word Sequencing",
+    "correct_option": "42153"
+  },
+  {
+    "problem_text": "In the following question, two statements are given and these statements are followed by two conclusions numbered (1) and (2). You have to take the given two statements to be true even if they seem to be at variance from commonly known facts. Read the conclusions and then decide which of the given conclusions logically follows from the two given statements, disregarding commonly known facts. Give answer:\n\nStatements: Some actors are singers. All the singers are dancers.\nConclusions:1. Some actors are dancers.\n2. No singer is an actor.",
+    "options": [
+      "A. Only (1) conclusion follows",
+      "B. Only (2) conclusion follows",
+      "C. If either (1) or (2) follows",
+      "D. If neither (1) nor (2) follows",
+      "E. If both (1) and (2) follow"
+    ],
+    "difficuilty_level": "medium",
+    "topic": "Logical Reasoning",
+    "sub-topic": "Statements and Conclusions",
+    "correct_option": "C. If either (1) or (2) follows"
+  }
+]

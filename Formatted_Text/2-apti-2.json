@@ -1,0 +1,24 @@
+[
+  {
+    "problem_text": "In the following question, two statements are given and these statements 1 point\nare followed by two conclusions numbered (1) and (2). You have to…are singers. All the\nsingers are dancers.\nConclusions:1. Some actors are dancers.2. No singer is actor.",
+    "options": [
+      "A. Only (1) conclusion follows",
+      "B. Only (2) conclusion follows",
+      "C. Either (1) or (2) follows",
+      "D. Neither (1) nor (2) follows",
+      "E. Both (1) and (2) follow"
+    ],
+    "difficulty_level": "medium",
+    "topic": "Logical Reasoning",
+    "sub-topic": "Statements and Conclusions",
+    "correct option": "E. Both (1) and (2) follow"
+  },
+  {
+    "problem_text": "Verbal Reasoning :: Cause and Effect. Directions to Solve: Below in each 1 point\nof the questions are given two statements | and II. These statements may be\neither independent causes or may be effects of independent causes or a .",
+    "options": ["Option 1", "Option 2", "Option 3", "Option 4", "Option 5"],
+    "difficulty_level": "hard",
+    "topic": "Verbal Reasoning",
+    "sub-topic": "Cause and Effect",
+    "correct option": "Option 5"
+  }
+]

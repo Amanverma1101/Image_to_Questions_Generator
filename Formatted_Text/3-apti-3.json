@@ -1,0 +1,24 @@
+[
+  {
+    "problem_text": "Verbal Reasoning :: Cause and Effect. Directions to Solve: Below in each 1 point of the questions are given two statements | and II. These statements may be either independent causes or may be effects of independent causes or a common cause. One of these statements may be the effect of the other statements.Read the statements and decide which of the following answer choice correctly depicts the relationship between these two statements.Mark answer- (A) If statement | is the cause and statement Il is its effect.- (B) If statement Il is the cause and statement | is its effect.- (C) If both the statements | and Il are independent causes.- (D) If both the statements | and Il are effects of independent causes.- (E) If both the statements | and Il are effects of some common cause. Statements:\\n\\n1. Standard of living among the middle class society is constantly going up since part of few years.\\nIl. Indian Economy is observing remarkable growth.",
+    "options": [
+      "A. Statement | is the cause and statement Il is its effect.",
+      "B. Statement Il is the cause and statement | is its effect.",
+      "C. Both the statements | and II are independent causes.",
+      "D. Both the statements | and Il are effects of independent causes.",
+      "E. Both the statements | and Il are effects of some common cause."
+    ],
+    "difficulty_level": "medium",
+    "topic": "Verbal Reasoning",
+    "sub-topic": "Cause and Effect",
+    "correct_option": "A. Statement | is the cause and statement Il is its effect."
+  },
+  {
+    "problem_text": "Verbal Reasoning :: Analogy. Directions to Solve: In each of the following 1 point [ | questions find out the alternative which will replace the question mark.\" CUP : P BIRD: ?\" -",
+    "options": ["A. Spoon", "B. Plane", "C. Nest", "D. Legs"],
+    "difficulty_level": "easy",
+    "topic": "Verbal Reasoning",
+    "sub-topic": "Analogy",
+    "correct_option": "C. Nest"
+  }
+]
