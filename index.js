@@ -42,7 +42,7 @@ let raw_data="";
 
 const path_url = path.join(__dirname); 
 const openai = new OpenAIApi({
-  api_key: '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'
+  api_key: `${process.env.OPENAI_API_KEY}`,
 });
 
 Tesseract.recognize(
